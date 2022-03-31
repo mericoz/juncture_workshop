@@ -10,10 +10,9 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+<param ve-entity eid="Q1264942"> <!-- Dumbarton Oaks -->
+<param ve-entity eid="Q16147979"> <!-- Bodleian Libraries -->
+<param ve-entity eid="Q7282803"> <!-- Ragamala painting -->
 
 ## This is Heading n.2
 
@@ -45,4 +44,4 @@ In this session, we will keep it simple and try to use the IIIF framework to add
 
 # References
 
-[^1]: [Well done! You have found a reference. Enjoy this video on Indian Ragamala paintings](https://www.youtube.com/watch?v=BaXQtx3nMqQ)
+[^1]: [Well done! You have found a reference. Enjoy this video on Indian Ragamala painting](https://www.youtube.com/watch?v=BaXQtx3nMqQ)
