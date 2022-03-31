@@ -46,7 +46,7 @@ In this session, we will keep it simple and try to use the IIIF framework to add
 
 Kokkinobaphos Master
 <param ve-image
-       manifest="https://zoomviewer.toolforge.org/proxy.php?iiif=File:Kokkinobaphos_Master_-_St_Mark.jpg"
+       manifest="https://zoomviewer.toolforge.org/proxy.php?iiif=File:Kokkinobaphos_Master_-_St_Mark.jpg">
        
 # References
 
