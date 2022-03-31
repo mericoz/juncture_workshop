@@ -19,7 +19,7 @@
 
 You can format this just as you would format a paragraph in an essay, with the added benefit of including [interactive links](https://lab.plant-humanities.org/heliconia/). The link here is an example of a visual essay from The Plant Humanities lab, which was a project developed in collaboration between JStor and Dumbarton Oaks Institute. 
 <param ve-image 
-       manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/1d091ec9-33f8-42d9-a620-141dfc7b1816.json">
+       manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/ed00e41d-83e4-410a-943b-d4cfa28ea2ba.json">
 
 # Basic usage
 
