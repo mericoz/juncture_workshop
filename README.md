@@ -1,4 +1,4 @@
-# juncture_workshop
+# DSGF Workshops Spring'22: Juncture
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
