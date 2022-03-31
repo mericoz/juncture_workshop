@@ -40,8 +40,13 @@ In this session, we will keep it simple and try to use the IIIF framework to add
        label="Dragon in Foliage"
        license="Harvard Art Museums/Arthur M. Sackler Museum, Gift of Stuart Cary Welch, Jr."
        description="Ottoman Watercolor from the Harvard Art Museums, Obj. N. 1999.288"
-       url="https://hvrd.art/o/217072"
-
+       url="https://hvrd.art/o/217072">
+       
+## Vatican
+Kokkinobaphos Master
+<param ve-image
+       manifest="https://zoomviewer.toolforge.org/proxy.php?iiif=File:Kokkinobaphos_Master_-_St_Mark.jpg"
+       
 # References
 
 [^1]: [Well done! You have found a reference. Enjoy this video on Indian Ragamala painting](https://www.youtube.com/watch?v=BaXQtx3nMqQ)
