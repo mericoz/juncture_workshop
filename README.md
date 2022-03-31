@@ -28,10 +28,10 @@ You can format this just as you would format a paragraph in an essay, with the a
 _Notice how, in the markdown text, the information for a visual element precedes your body paragraph._ 
 Click on the info button on the upper left of the image on this section, and discover how the parameters below are reflected in your visual essay. Do the same with this footnote here:[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://iiif.bodleian.ox.ac.uk/iiif/manifest/1d091ec9-33f8-42d9-a620-141dfc7b1816.json">
+       label="Image of Anastasis from Armenian Manuscript" 
+       description="Bodleian Library MS Arm. c. 1" 
+       license="© Bodleian Libraries, University of Oxford" 
+       url="https://iiif.bodleian.ox.ac.uk/iiif/manifest/ed00e41d-83e4-410a-943b-d4cfa28ea2ba.json">
 
 ## Map
 
