@@ -28,18 +28,21 @@ You can format this just as you would format a paragraph in an essay, with the a
 _Notice how, in the markdown text, the information for a visual element precedes your body paragraph._ 
 Click on the info button on the upper left of the image on this section, and discover how the parameters below are reflected in your visual essay. Do the same with this footnote here: [^1]
 <param ve-image
-       manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/ed00e41d-83e4-410a-943b-d4cfa28ea2ba.json"
        label="Image of Anastasis from Armenian Manuscript" 
        description="Bodleian Library MS Arm. c. 1" 
        license="© Bodleian Libraries, University of Oxford" 
        url="https://iiif.bodleian.ox.ac.uk/iiif/manifest/ed00e41d-83e4-410a-943b-d4cfa28ea2ba.json">
 
-## Map
+## Let's see if another image will work
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
+In this session, we will keep it simple and try to use the IIIF framework to add images. Try visiting [their website](https://iiif.io/guides/finding_resources/) for a guideline about finding Mirador-compatible images.
+<param ve-image
+       manifest="https://iiif.harvardartmuseums.org/manifests/object/217072"
+       label="Dragon in Foliage"
+       license="Harvard Art Museums/Arthur M. Sackler Museum, Gift of Stuart Cary Welch, Jr."
+       description="Ottoman Watercolor from the Harvard Art Museums, Obj. N. 1999.288"
+       url="https://hvrd.art/o/217072"
+       
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
