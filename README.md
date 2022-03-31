@@ -42,14 +42,6 @@ In this session, we will keep it simple and try to use the IIIF framework to add
        license="Harvard Art Museums/Arthur M. Sackler Museum, Gift of Stuart Cary Welch, Jr."
        description="Ottoman Watercolor from the Harvard Art Museums, Obj. N. 1999.288"
        url="https://hvrd.art/o/217072"
-       
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
 
 # References
 
