@@ -44,9 +44,9 @@ In this session, we will keep it simple and try to use the IIIF framework to add
        
 ## Vatican
 
-MY DEAR MR. SHERLOCK HOLMES,--You really did it very well. You took me in completely. Until after the alarm of fire, I had not a suspicion. But then, when I found how I had betrayed myself, I began to think. I had been warned against you months ago. I had been told that if the King employed an agent it would certainly be you. And your address had been given me. Yet, with all this, you made me reveal what you wanted to know. Even after I became suspicious, I found it hard to think evil of such a dear, kind old clergyman. But, you know, I have been trained as an actress myself. Male costume is nothing new to me. I often take advantage of the freedom which it gives. I sent John, the coachman, to watch you, ran up stairs, got into my walking-clothes, as I call them, and came down just as you departed.
-<param ve-image
-       manifest="https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/3b59dc521e0a02f87866caa6ac1b5a08.tif/info.json">
+<param ve-entity="Philadelphia" eid="Q1345" fill="#C8E7E7">
+<param ve-map
+       center="Q1345">
        
 # References
 
