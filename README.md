@@ -13,6 +13,7 @@
 <param ve-entity eid="Q1264942"> <!-- Dumbarton Oaks -->
 <param ve-entity eid="Q16147979"> <!-- Bodleian Libraries -->
 <param ve-entity eid="Q7282803"> <!-- Ragamala painting -->
+<param ve-entity eid="Q1345" fill="#7181AE"> <!-- Philadelphia -->
 
 ## This is Heading n.2
 
