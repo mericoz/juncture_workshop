@@ -49,4 +49,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Well done! You have found a reference. Enjoy this video on Indian Ragas](https://www.youtube.com/watch?v=BaXQtx3nMqQ)
+[^1]: [Well done! You have found a reference. Enjoy this video on Indian Ragamala paintings](https://www.youtube.com/watch?v=BaXQtx3nMqQ)
