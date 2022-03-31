@@ -43,10 +43,11 @@ In this session, we will keep it simple and try to use the IIIF framework to add
        url="https://hvrd.art/o/217072">
        
 ## Vatican
-
+Well, I followed you to your door, and so made sure that I was really an object of interest to the celebrated Mr. Sherlock Holmes. Then I, rather imprudently, wished you good-night, and started for the Temple to see my husband.
 <param ve-entity="Philadelphia" eid="Q1345" fill="#C8E7E7">
 <param ve-map
-       center="Q1345">
+       center="Q1345"
+       zoom=11>
        
 # References
 
