@@ -43,6 +43,7 @@ In this session, we will keep it simple and try to use the IIIF framework to add
        url="https://hvrd.art/o/217072">
        
 ## Vatican
+
 Kokkinobaphos Master
 <param ve-image
        manifest="https://zoomviewer.toolforge.org/proxy.php?iiif=File:Kokkinobaphos_Master_-_St_Mark.jpg"
