@@ -44,10 +44,11 @@ In this session, we will keep it simple and try to use the IIIF framework to add
        
 ## Vatican
 Well, I followed you to your door, and so made sure that I was really an object of interest to the celebrated Mr. Sherlock Holmes. Then I, rather imprudently, wished you good-night, and started for the Temple to see my husband.
-<param ve-entity="Philadelphia" eid="Q1345" fill="#C8E7E7">
+<param ve-entity="Philadelphia" eid="Q1345" fill="#7181AE">
 <param ve-map
+       prefer-geojson
        center="Q1345"
-       zoom=11>
+       zoom="11">
        
 # References
 
