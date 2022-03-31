@@ -4,7 +4,7 @@
 <param ve-config 
        title="Composing a Visual Essay"
        author="Meriç"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/7/7d/Princes_of_the_House_of_Timur.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
