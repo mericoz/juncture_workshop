@@ -20,7 +20,8 @@
 You can format this just as you would format a paragraph in an essay, with the added benefit of including [interactive links](https://lab.plant-humanities.org/heliconia/). The link here is an example of a visual essay from The Plant Humanities lab, which was a project developed in collaboration between JStor and Dumbarton Oaks Institute. 
 <param ve-image 
        manifest="https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-00006"
-       label="Maxwell Zoetrope, Cambridge University Cavendish Laboratory">
+       label="Maxwell Zoetrope, Cambridge University Cavendish Laboratory"
+       license="© Cavendish Laboratory, University of Cambridge">
 
 # Basic usage
 
