@@ -19,7 +19,8 @@
 
 You can format this just as you would format a paragraph in an essay, with the added benefit of including [interactive links](https://lab.plant-humanities.org/heliconia/). The link here is an example of a visual essay from The Plant Humanities lab, which was a project developed in collaboration between JStor and Dumbarton Oaks Institute. 
 <param ve-image 
-       manifest="https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-00006">
+       manifest="https://cudl.lib.cam.ac.uk//iiif/PH-CAVENDISH-P-00006"
+       label="Maxwell Zoetrope, Cambridge University Cavendish Laboratory">
 
 # Basic usage
 
@@ -29,7 +30,7 @@ _Notice how, in the markdown text, the information for a visual element precedes
 Click on the info button on the upper left of the image on this section, and discover how the parameters below are reflected in your visual essay. Do the same with this footnote here: [^1]
 <param ve-image
        manifest="https://iiif.bodleian.ox.ac.uk/iiif/manifest/ed00e41d-83e4-410a-943b-d4cfa28ea2ba.json"
-       label="Illustration of _Anastasis_ from an Armenian Manuscript" 
+       label="Illustration of Anastasis from an Armenian Manuscript" 
        description="Bodleian Library MS Arm. c. 1" 
        license="© Bodleian Libraries, University of Oxford">
 
@@ -43,13 +44,14 @@ In this session, we will keep it simple and try to use the IIIF framework to add
        description="Ottoman Watercolor from the Harvard Art Museums, Obj. N. 1999.288"
        url="https://hvrd.art/o/217072">
        
-## Vatican
-Well, I followed you to your door, and so made sure that I was really an object of interest to the celebrated Mr. Sherlock Holmes. Then I, rather imprudently, wished you good-night, and started for the Temple to see my husband.
-<param ve-entity="Philadelphia" eid="Q1345" fill="#7181AE">
+## In this section, I will try to set up a map
+A map can be set up by adding an entity, and its identifier. Here, I will use Philadelphia.
 <param ve-map
        prefer-geojson
        center="Q1345"
-       zoom="11">
+       zoom="12"
+       marker-style="circle"
+       fill-color="#AB9EC7">
        
 # References
 
