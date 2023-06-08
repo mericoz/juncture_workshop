@@ -1,8 +1,8 @@
-# Hello, Digital Scholarship Summer Fellows
+.ve-header "Hello, Digital Scholarship Summer Fellows" wc:Cercis_siliquastrum_MHNT.jpg
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+While my hometown Istanbul doesn't have an official city flower, it is known for the remarkable color of its Judas Trees in the spring, an example of which you see in my header! I retrieved the image directly from Wikipedia Commons.
 
-## Aulacophora indica
+## Astrolabes
 
 .ve-media wc:The_Bug_Peek.jpg right
 
