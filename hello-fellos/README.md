@@ -1,22 +1,25 @@
 .ve-header "Hello, Digital Scholarship Summer Fellows" wc:Cercis_siliquastrum_MHNT.jpg
 
-While my hometown Istanbul doesn't have an official city flower, it is known for the remarkable color of its Judas Trees in the spring, an example of which you see in my header! I retrieved the image directly from Wikipedia Commons.
+    - https://media.getty.edu/iiif/pres/8078f5e0-244f-4720-8dcc-57716e2ade3b 
 
-## Astrolabes
+## Using IIIF
 
-.ve-media wc:The_Bug_Peek.jpg right
+.ve-media https://media.getty.edu/iiif/pres/8078f5e0-244f-4720-8dcc-57716e2ade3b 
 
-The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; subfamily: Galerucinae) looking out from a leaf hole of Alnus nepalensis tree. Adult leaf beetles make holes in host plant leaves while feeding. They camouflage themselves with these holes.
+I used [this link](https://iiif.io/guides/finding_resources/) to find an IIIF compliant source. I used the [Getty Search Gateway](https://search.getty.edu/gateway/landing) to look for something interesting to me.
 
-This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
+Once I found an item that I was looking for, I scrolled until I found the [Manifest URL](https://iiif.io/guides/using_iiif_resources/).
 
-Image controls are located in the top-left corner of the image and can be seen when hovering over the image.  These controls support image zoom, rotation, full-screen viewing, and repositioning to the start position.  Panning can be performed with keyboard arrow keys or by mouse click-and-drag.
+## Add Popover Links and Texts
 
-Image information can be seen when hovering the cursor over the info icon located in the top-right corner of the image.  The Image information popover includes the image title, description, attribution statement, and reuse rights.
+I like to add pop over links, retrieving info from a source like ==Wikidata=={Q2013} . For whatever reason, this function didn't work on my Readme. Can you try and tell me what I did wrong?
+
+Note how I added an annotation onto the image. That function is accessible on the viewer itself.
+
 
 ## Chitwan National Park, Nepal
 
-.ve-map Q1075023 right
+.ve-map 41.01, 28.98
 
 The map is centered on the Chitwan National Park in Nepal, which is the location associated with the image above.  The Wikidata identifier for Chitwan National Park is `Q1075023`.  When a map location is specified using a Wikidata ID (or QID) Juncture can automatically retrieve the geographic coordinates for map centering.
 
