@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This is the face of a Byzantine woman! And, this is an annotation!",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://media.getty.edu/iiif/image/6501c952-7c67-4e8e-985c-24afc26a7e02",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1795.893310546875,3714.56787109375,1988.28369140625,1381.41796875"
+      },
+      "id": "593dc6af"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "c1797f39"
+  }
+]
