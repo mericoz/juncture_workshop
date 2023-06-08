@@ -12,9 +12,9 @@ Once I found an item that I was looking for, I scrolled until I found the [Manif
 
 ## Add Popover Links and Texts
 
-I like to add pop over links, retrieving info from a source like ==Wikidata=={Q2013} . For whatever reason, this function didn't work on my Readme. Can you try and tell me what I did wrong?
+I like to add pop over links, retrieving info from a source like ==Wikidata=={Q2013}. For whatever reason, this function didn't work on my Readme. Can you try and tell me what I did wrong?
 
-Note how I added an annotation onto the image. That function is accessible on the viewer itself.
+Note how I added an annotation onto the image. That function is accessible on the viewer itself. ==Common kingfishers=={Q79915} are pretty.
 
 
 ## Chitwan National Park, Nepal
