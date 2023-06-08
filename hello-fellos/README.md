@@ -3,7 +3,6 @@
     - https://media.getty.edu/iiif/pres/8078f5e0-244f-4720-8dcc-57716e2ade3b 
 
 ## Using IIIF
-
 .ve-media https://media.getty.edu/iiif/pres/8078f5e0-244f-4720-8dcc-57716e2ade3b 
 
 I used [this link](https://iiif.io/guides/finding_resources/) to find an IIIF compliant source. I used the [Getty Search Gateway](https://search.getty.edu/gateway/landing) to look for something interesting to me.
@@ -15,7 +14,6 @@ Once I found an item that I was looking for, I scrolled until I found the [Manif
 I like to add pop over links, retrieving info from a source like ==Wikidata=={Q2013}. For whatever reason, this function didn't work on my Readme. Can you try and tell me what I did wrong?
 
 Note how I added an annotation onto the image. That function is accessible on the viewer itself. ==Common kingfishers=={Q79915} are pretty.
-
 
 ## Chitwan National Park, Nepal
 
